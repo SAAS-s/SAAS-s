@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I'm Surmai, a Computer Application Security graduate student at Conestoga College, Waterloo.
-🌱 I’m currently learning and working towards OSCP certification.
+🌱 I’m currently learning and working towards the CRTP certification with a strong interest in red teaming, penetration testing, and exploring blockchain security.
 💻 I enjoy solving CTF challenges and reading writeups.
